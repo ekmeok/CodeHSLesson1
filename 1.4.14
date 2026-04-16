@@ -1,0 +1,17 @@
+//Fill in the missing parts of this code to track Tracy!
+
+move();
+
+//Add a condition to the loop below.
+while(colorIs(Color.yellow)){
+    move();
+    //This if statement tells Karel to stop and decide which way to turn when the front is blocked.
+    if(frontIsBlocked()){
+        //Add a condition to the if/else statement below to tell Karel when to turn right.
+        if(rightIsBlocked()){
+            turnLeft();
+        } else{
+            turnRight();
+        }
+    }
+}
