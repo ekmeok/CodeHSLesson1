@@ -1,0 +1,15 @@
+// do path and color black to red
+move();
+while (colorIs(Color.red)) {
+    move();
+    if (colorIs(Color.black)) {
+        paint(Color.red);
+    }
+    if(frontIsBlocked()){
+        if(rightIsBlocked()){
+            turnLeft();
+        } else{
+            turnRight();
+        }
+    }
+}
