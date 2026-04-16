@@ -1,0 +1,105 @@
+//Move through the scene using loops and if statements to paint any black squares purple. 
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnLeft();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnLeft();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnRight();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnRight();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnLeft();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnLeft();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnRight();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+turnRight();
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
+move();
+while (colorIs(Color.black)) {
+    paint(Color.purple);
+}
